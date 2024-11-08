@@ -1,5 +1,3 @@
-'''Python program to print hello world
-Author:Kevin P Tom
-Date:08-11-2024
-version1.0'''
-print("Hello, World!")
+str1="Hello,World!"
+str2=str1[0:12]
+print(str2)
