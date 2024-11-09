@@ -1,8 +1,0 @@
-'''
-Author : Niya Pius
-Date : 08-11-2024
-Python program to print a statement
-Version 1.0
-'''
-
-print("Hello, World!")
