@@ -7,11 +7,11 @@ Perform a python program that stores and displays your name,age,and favourite co
 
 Expected Output (Example):
 
-Enter your Name:Gerald Peter
+Enter your name:Gerald Peter
 
-Enter your Age:45
+Enter your age:45
 
-Favourite Colour:Blue
+Favourite colour:Blue
 
 Gerald Peter
 
