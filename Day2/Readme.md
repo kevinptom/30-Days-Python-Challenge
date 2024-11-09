@@ -13,8 +13,8 @@ Enter your Age:45
 
 Favourite Colour:Blue
 
-Your name is Gerald Peter
+Gerald Peter
 
-Your age is 50
+50
 
-Your favourite colour is Blue
+Blue
