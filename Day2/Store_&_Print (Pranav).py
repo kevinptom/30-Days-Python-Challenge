@@ -6,7 +6,7 @@ Version - 1.0
 """
 
 name = input("Enter your name : ")
-age = input("Enter your age : ")
+age = int(input("Enter your age : "))
 colour = input("Enter your favourite colour : ")
 
 print(name)
