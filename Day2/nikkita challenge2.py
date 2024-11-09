@@ -5,9 +5,9 @@ python program to familiarise input and output functions
 version 1.0
 """
 
-name=(input("Enter your name:"))
-age=(input("Enter your age:"))
-colour=(input("Favourite colour:"))
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+colour=input("Favourite colour:")
 print(name)
 print(age)
 print(colour)
