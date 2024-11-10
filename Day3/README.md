@@ -8,6 +8,8 @@ Q.Perform basic arithmetic operators in python using two input numbers.
 
 →float() is used to convert the input into a floating-point number. You can use int() if you only want to work with integers.
 
+
+
 2.Arithmetic Operations:
 
 → Addition: The + operator adds num1 and num2.
