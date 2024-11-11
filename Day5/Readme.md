@@ -1,26 +1,68 @@
 # Basic String Functions in Python
 
-In Python, strings are sequences of characters enclosed in either single quotes (`'`) or double quotes (`"`). Python provides several built-in methods to manipulate strings. This guide will show you how to use some of the most commonly used string functions.
 
-## Table of Contents
-1. [Basic String Initialization](#basic-string-initialization)
-2. [String Length (`len`)](#string-length-len)
-3. [Changing Case](#changing-case)
-    - [Upper Case](#upper-case)
-    - [Lower Case](#lower-case)
-    - [Title Case](#title-case)
-4. [Removing Whitespace (`strip`)](#removing-whitespace-strip)
-5. [Finding Substrings (`find`)](#finding-substrings-find)
-6. [Replacing Substrings (`replace`)](#replacing-substrings-replace)
-7. [Splitting Strings (`split`)](#splitting-strings-split)
-8. [Joining Strings (`join`)](#joining-strings-join)
+ ## 1. String Length: len()
+Description: Returns the number of characters in a string.
+ Syntax:
+  len(string)
+##### Example:
+        print(len("Hello"))  # Output: 5
 
----
+ ## 2.    title()
+Converts the first character of each word to uppercase.
 
-## 1. Basic String Initialization
+Syntax: text.title()  #where text is an variable where input string is stored
+##### Example:
+        print("hello world".title())  # Output: Hello World
 
-You can create strings by assigning text to a variable:
+ ## 3.    replace()
+Replaces all occurrences of a substring with another substring.
 
-```python
-text = "Hello, Python!"
-print(text)
+Syntax:    text.replace(old, new)
+#####   Example:
+        print("Hello, World".replace("World", "Python"))  # Output: Hello, Python
+
+ ## 4.   split()
+    Splits the string into a list based on a delimiter (default is space).   
+    
+    Syntax:  text.split(delimiter)
+##### Example:
+       print("apple,banana,cherry".split(","))  # Output: ['apple', 'banana', 'cherry']
+
+
+
+#### 🛑Problem Statement: Write a Python program that takes a user's full name as input. The program should:
+
+Convert the name to all uppercase letters.
+
+Convert the name to all lowercase letters.
+
+Capitalize the first letter of each word.
+
+Count the total number of characters in the name (excluding spaces).
+
+
+## Expected Output:  (Example)
+
+Original Name: Amanda Smith
+
+Uppercase: AMANDA SMITH
+
+Lowercase: amanda smith
+
+Title Case: Amanda Smith
+ 
+Total Characters (excluding spaces): 11
+
+
+
+
+
+
+
+
+
+
+
+
+
