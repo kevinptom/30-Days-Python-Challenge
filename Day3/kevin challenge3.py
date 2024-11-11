@@ -9,7 +9,7 @@ num1=int(input("Enter the first number:"))
 num2=int(input("Enter the second number:"))
 
 sum=num1+num2 #adding num1 and num2
-print("The sum of",num1,"and",num2,"is",sum)   #printing the sum
+print(f"The sum of {num1} and {num2} is {sum})   #printing the sum
 
 difference=num1-num2  #to find the difference when num2 is subtracted from num1
 print("The difference when",num2,"is subtracted from",num1,"is",difference) #printing the difference
