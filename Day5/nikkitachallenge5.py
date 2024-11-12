@@ -1,0 +1,6 @@
+name=input("Original name:")
+print("uppercase:",name.upper())
+print(f"lowercase:{name.lower()}")
+print("title case:",name.title())
+name_space=name.replace(" ","")
+print("Total characters excluding spaces:",len (name_space))
