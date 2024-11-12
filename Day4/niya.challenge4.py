@@ -6,6 +6,6 @@ Version 1.0
 '''
 
 str=input("Enter a string")
-print(str.upper())
-print(str.lower())
-print(str.capitalize())
+print("Uppercase:",str.upper())
+print("Lowercase:",str.lower())
+print("Capitalized:",str.capitalize())
