@@ -12,4 +12,4 @@ print(f'Lowercase:{str.lower()}')
 
 print(f'Title Case:{str.title()}')  #to print the first letter of each word in capital
 str1 = str.replace(' ','')
-print(f'Total Characters(excluding spaces):{len(str)}')  #to print the length of string
+print(f'Total Characters(excluding spaces):{len(str1)}')  #to print the length of string
