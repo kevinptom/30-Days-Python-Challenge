@@ -66,10 +66,10 @@ You can combine multiple logical operators in a single expression. Python evalua
    c = 15
 
    ###### Using `and`, `or`, and `not` together
-   if (a < b and b < c) or not (c == 15):
-          print("Condition is True")
-   else:
-          print("Condition is False")
+     if (a < b and b < c) or not (c == 15):
+            print("Condition is True")
+     else:
+            print("Condition is False")
 
 #Output gives:
    Condition is True
