@@ -61,11 +61,12 @@ The `and` operator returns `True` only if **both** conditions are `True`. If eit
 You can combine multiple logical operators in a single expression. Python evaluates these expressions from left to right, but you can use parentheses to control the order of evaluation.
 
 #### Example:
-   a = 5
-   b = 10
-   c = 15
+     a = 5
+     b = 10
+     c = 15
 
-   ###### Using `and`, `or`, and `not` together
+    #Using `and`, `or`, and `not` together
+    
      if (a < b and b < c) or not (c == 15):
             print("Condition is True")
      else:
