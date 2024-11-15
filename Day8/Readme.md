@@ -82,8 +82,11 @@ You can combine multiple logical operators in a single expression. Python evalua
 
 ##### 📟Expected Output:
    Enter the first number: 8
+   
    Enter the second number: 3
+   
    Enter the third number: 5
+   
    The smallest number is: 3
 
    
