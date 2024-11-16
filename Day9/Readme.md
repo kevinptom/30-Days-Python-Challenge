@@ -61,6 +61,7 @@ The for loop in Python is used to iterate over a sequence (like a list, tuple, s
      2
      3
      4
+     5
           
 
 
