@@ -24,6 +24,50 @@ The for loop in Python is used to iterate over a sequence (like a list, tuple, s
          3
          4
 
+#### 2. Example: Iterating Over a List
+        fruits = ["apple", "banana", "cherry"]
+        for fruit in fruits:
+             print(fruit)
+
+             #Output :
+
+             apple
+             banana
+             cherry
+
+#### 3. Example: Iterating Over a String
+       for char in "Python":
+          print(char)
+
+        #Output gives:
+
+          P
+          y
+          t
+          h
+          o
+          n
+
+
+## 🛑Perform apython program to find first n natural numbers.
+
+
+###### EXPECTED OUTPUT:
+     Enter the limit:5
+
+     The first 5 natural numbers are:
+
+     1
+     2
+     3
+     4
+          
+
+
+             
+
+         
+
 
     
 
