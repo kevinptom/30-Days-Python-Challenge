@@ -1,3 +1,7 @@
+author:Nikkita
+created on:20/11/24
+program to print factorial of a number using while loop
+
 num=int(input("Enter your number:"))
 factorial=1
 store_num=num
