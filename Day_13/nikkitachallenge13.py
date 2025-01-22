@@ -1,5 +1,4 @@
-from operator import index
-""""
+"""
 author:Nikkita Anna George
 Created on:2/12/24
 Program to study about list and its basic functions.
